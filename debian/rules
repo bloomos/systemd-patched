@@ -68,6 +68,7 @@ CONFFLAGS = \
 	-Ddefault-kill-user-processes=false \
 	-Ddefault-hierarchy=hybrid \
 	-Ddefault-dnssec=no \
+	-Ddefault-dns-over-tls=opportunistic \
 	-Ddefault-llmnr=no \
 	-Ddefault-mdns=no \
 	-Dpamconfdir=no \
