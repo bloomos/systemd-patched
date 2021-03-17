@@ -42,3 +42,12 @@ debian/UBUNTU-resolved-default-no-negative-caching.patch
 Revert-network-if-sys-is-rw-then-udev-should-be-around.patch
 lp1861941-dont-generate-disk-byuuid-for-bcache-uuid.patch
 lp1895418.patch
+clear/0005-journal-flush-var-kmsg-after-starting-disable-kmsg-f.patch
+clear/0007-sd-event-return-malloc-memory-reserves-when-main-loo.patch
+clear/0022-network-online-complete-once-one-link-is-online-not-.patch
+clear/0023-DHCP-retry-faster.patch
+clear/0024-Remove-libm-memory-overhead.patch
+clear/0026-skip-not-present-ACPI-devices.patch
+clear/0028-Make-timesyncd-a-simple-service.patch
+clear/0029-Compile-udev-with-O3.patch
+clear/0033-Notify-systemd-earlier-that-resolved-is-ready.patch
